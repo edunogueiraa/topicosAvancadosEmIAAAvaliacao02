@@ -1,2 +1,6 @@
 __pycache__/
 .venv
+login_hangle.py
+lhama_tokenizer
+lora_lhama_causal_finetuned_model
+modelos_treinados
