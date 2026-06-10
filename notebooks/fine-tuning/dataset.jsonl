@@ -1,13 +1,11 @@
-{"Instruction": "Quais são as primeiras etapas necessárias antes de operar a máquina BICi-PEnoewregry Power?", "Output": "Leia, compreenda e segua normas de segurança e instruções de operação."}
+{"Instruction": "Quais são as primeiras etapas necessárias antes de operar a máquina GenieZ-45/25J?", "Output": "Leia, compreenda e segua normas de segurança e instruções de operação."}
 {"Instruction": "Quais são os primeiros dois tópicos do manual da máquina?", "Output": "Normas de segurança, Legenda"}
 {"Instruction": "Quais são os elementos listados no conteúdo para uma inspeção pré-operacional?", "Output": "Controles, Inspeção pré-operação"}
 {"Instruction": "Quais são as páginas mais importantes do conteúdo fornecido?", "Output": "Instruções de operação, Transporte e Elevação, Adesivos, Especificações"}
-{"Instruction": "Quais edições do livro \"Genie Lift Manual\" estão listadas no conteúdo?", "Output": "Segunda edição (agosto de 2004) e Terceira edição (outubro de 2005)"}
+{"Instruction": "Quais edições do livro Genie Lift Manual estão listadas no conteúdo?", "Output": "Segunda edição (agosto de 2004) e Terceira edição (outubro de 2005)"}
 {"Instruction": "Quais são as consequências da não observância das normas de segurança no manual do operador?", "Output": "Pode provocar morte ou acidentes pessoais Graves."}
-{"Instruction": "Quais são as etapas da seção anterior a seguir?", "Output": "Inspeção pré-operacional, teste de funções, inspecionar o local de trabalho, usar para finalidade planeada."}
-{"Instruction": "Quais normas devem os operadores seguir ao trabalhar com a máquina Z-45/25J?", "Output": "Regra 110015PB, normas de segurança, normas governamentais, treinamento adequado."}
+{"Instruction": "Quais normas devem os operadores seguir ao trabalhar com a máquina Z-45/25J?", "Output": "Normas de segurança, normas governamentais, treinamento adequado."}
 {"Instruction": "Quais riscos de segurança devem ser evitados ao operar a máquina?", "Output": "Choques elétricos, tombamento, contato com corrente elétrica."}
-{"Instruction": "Qual é a máxima capacidade de ocupantes para a plataforma?", "Output": "2\n\nINSTRUCTION: Como o peso dos opcionais e acessórios afeta a plataforma?"}
 {"Instruction": "Qual é a distância mínima entre a máquina e a superfície em cada fase de aproximação?", "Output": "3,1 metros na fase de aproximação."}
 {"Instruction": "Quais ações devem ser tomadas quando o alarme de inclinação soar?", "Output": "Mantenha distância, verifique estabilidade, e evite ventos fortes."}
 {"Instruction": "Quais são as diretrizes para o posicionamento seguro da lança de uma máquina?", "Output": "Mova para superfície firme, leveza, retraia se o alarme do inclinação soa."}
@@ -24,16 +22,11 @@
 {"Instruction": "Quais são as diretrizes para o uso seguro de uma plataforma?", "Output": "Mantenha a plataforma firme, não coloque em pé, suba, use escadas ou andaimes nela e não a use sobre superfícies móveis."}
 {"Instruction": "Quais são as diretrizes para manutenção segura de um elevador manual?", "Output": "Verifique pneus, calibre de ar e porças; não desça, substitua neumáticos originais."}
 {"Instruction": "Quais são as diretrizes de segurança para o modelo de plataforma Z-45/25?", "Output": "Mantenha o piso livre de detritos, abaixe o trilho central de entrada, não use pneus com ar, feche a porta de entrada, assegure a distribuição adequada de contrapesos."}
-{"Instruction": "Quais riscos de segurança devem serem abordados pelos operadores de equipamentos?", "Output": "Colisões, distâncias, equipamentos de proteção visual, pontos cegos ao dirigir."}
-{"Instruction": "Quais são as diretrizes de segurança para o uso da giratória?", "Output": "Evite operar a giratória em direção à lança ou guindaste, verifique obstruções acima do guindaste."}
-{"Instruction": "Quais riscos de segurança devem ser evitados ao operar a máquina de travamento?", "Output": "Evite dirigir de forma perigosa, usar baterias acima de 12 V, não usar a máquina como aterramento, e tome precauções contra colisões."}
+{"Instruction": "Quais são as diretrizes de segurança para o uso da base giratória?", "Output": "Evite operar a base giratória em direção à lança ou guindaste, verifique obstruções acima do guindaste."}
 {"Instruction": "Quais medidas devem ser tomadas antes de abaixar a lança em um trilho de proteção da plataforma?", "Output": "A área abaixo deve estar livre de pessoas e obstruções."}
 {"Instruction": "Quais são as diretrizes de segurança ao operar a máquina?", "Output": "Apenas em áreas abertas, longe de combustíveis, não em locais perigosos, e sem gases ou partículas inflamáveis."}
-{"Instruction": "Quais riscos de segurança devem ser evitados ao usar a máquina?", "Output": "Evite danos à máquina e queimaduras."}
-{"Instruction": "Quais medidas de segurança devem ser tomadas antes de realizar a inspeção pré-operacional das baterias?", "Output": "Use roupas de máquina, teste funções, use óculos de segurança, retire baterias danificadas."}
-{"Instruction": "Quais são os riscos importantes mencionados para a manutenção de um veículo?", "Output": "Risco de explosão, manutenção de faíscas, chamas e cigarros acesos."}
-{"Instruction": "Que precauções devem ser tomadas com baterias?", "Output": "Afaste-as dos manuais e de qualquer recipiente."}
-{"Instruction": "Quais medidas devem ser tomadas ao lidar com máquinas hidráulicas ou de ar?", "Output": "Opere em áreas bem ventiladas e deixe{s} pessoal de manutenção treinado."}
+{"Instruction": "Quais medidas de segurança devem ser tomadas antes de realizar a inspeção pré-operacional das baterias?", "Output": "Teste funções, use óculos de segurança, retire baterias danificadas."}
+{"Instruction": "Que precauções devem ser tomadas com baterias?", "Output": "Faça o descarte de forma apropriada."}
 {"Instruction": "Quais são as normas de segurança para acessar compartimentos durante a inspeção pré-operacional?", "Output": "Compartimentos devem permanecer fechados e travados durante a operação. Acesso só para inspeção pré-operacional."}
 {"Instruction": "Que simbolo de alerta de segurança indica uma situação de risco iminente?", "Output": "Símbolo de alerta de vermelho."}
 {"Instruction": "Qual é o significado de um símbolo de laranja com a indicação de risco?", "Output": "Indica risco de morte ou acidentes graves."}
@@ -46,7 +39,7 @@
 {"Instruction": "Quais são as características da chave de seleção da marcha lenta do modelo Z-45/25J?", "Output": "Chave de 9 rpm, elevação/descida do jib"}
 {"Instruction": "Qual é o principal uso da Alavanca de controle proporcional do eixo duplo?", "Output": "Controle de movimento e direção da lança secundária."}
 {"Instruction": "Quais funções são indicadas pelas lâmpadas na plataforma?", "Output": "Indicam direção, sobrecarga, desnivelamento, e habilitação do movimento."}
-{"Instruction": "Quais são as etapas envolvidas no processo de inspeção pré-operacional para a peça 110015PB Z-45/25?", "Output": "Realizar inspeção visual antes de cada turno de trabalho."}
+{"Instruction": "Quais são as etapas envolvidas no processo de inspeção pré-operacional para a Z-45/25?", "Output": "Realizar inspeção visual antes de cada turno de trabalho."}
 {"Instruction": "Quais são os passos iniciais antes de operacionalizar uma máquina?", "Output": "Realize testes de funções e verifique a necessidade de manutenção de rotina."}
 {"Instruction": "Quais são as primeiras etapas da manutenção de rotina de acordo com o manual?", "Output": "Evitar riscos, fazer inspeções pré-operacionais."}
 {"Instruction": "Que procedimento deve seguir um técnico qualificado após um teste de função falhar na máquina?", "Output": "Identificar e remover a máquina."}
@@ -55,7 +48,6 @@
 {"Instruction": "Quais são os primeiros passos para garantir a segurança da máquina?", "Output": "Verifique adesivos, vazamentos de óleo e nível de óleo. Inspecione a máquina por completo."}
 {"Instruction": "Quais problemas de manutenção devem ser verificados no equipamento?", "Output": "Trincas, vazamentos de óleo, níveis de óleo incorretos, deformações ou danos na máquina."}
 {"Instruction": "Verifique o nível de refrigerante do motor.", "Output": "Verifique se o nível de refrigerante do motor está correto."}
-{"Instruction": "Quais componentes foram identificados como inadequados no conteúdo fornecido?", "Output": "Componentes elétricos, fiação; mangueiras hidráulicas; tanques de combustível e de óleo hidráulico; motores de acionamento; coxins da lança."}
 {"Instruction": "Quais componentes devem ser verificados ou substituídos durante a manutenção do motor?", "Output": "Componente do motor"}
 {"Instruction": "Quais procedimentos devem ser seguidos para o motor Perkins 404C-22?", "Output": "Verifique o nível de óleo, adicione óleo se necessário, e as inspeções devem ser realizadas por técnicos qualificados."}
 {"Instruction": "Quais são os tipos de óleo especificados no manual para o Motor Ford LRG-425 EFI?", "Output": "15W-40, 5W-40, 10W-40, 5W-30"}
@@ -66,9 +58,7 @@
 {"Instruction": "Qual é o número de peça correto para o óleo hidráulico Chevron Rykon Z-45/25J?", "Output": "110015PB"}
 {"Instruction": "Quais são as duas verificações de segurança mencionadas no texto?", "Output": "Verificação da pressão dos pneus e condição da bateria."}
 {"Instruction": "Quais perigos são associados a baterias sob pressão excessiva?", "Output": "O risco de estouramento e exposição a ácido."}
-{"Instruction": "Que procedimentos devem seguir para verificar os pneus equipados com espuma, sódio e água?", "Output": "Verifique manometricamente, inspecione conexões da bateria, certifique-se de que a fixação da bateria estiver bem presa."}
 {"Instruction": "Quais são as etapas para verificar e ajustar o nível de ácido da bateria?", "Output": "Descasque as tampas, verifique o nível, adicione água destilada se necessário."}
-{"Instruction": "Quais componentes são incluídos na manutenção programada da bateria?", "Output": "Protetor de 355/55D625 14 camadas, vedação contra corrosão, Z-45/25 (cid:127), Z-45/25J Núm. de peça: 110015PB."}
 {"Instruction": "Quais requisitos devem ser atendidos antes de uma máquina que esteve parada por mais de três meses ser reutilizada?", "Output": "Inspeção trimestral com uma pessoa qualificada."}
 {"Instruction": "Quais são os objetivos dos testes de funções na máquina?", "Output": "Descobrir defeitos antes do uso."}
 {"Instruction": "Qual é o procedimento a seguir após a detecção de um defeito em uma máquina?", "Output": "Identificar e colocar fora de serviço a máquina. Realizar reparos com um técnico qualificado."}
@@ -77,7 +67,6 @@
 {"Instruction": "Qual é o procedimento para iniciar o motor de emergência?", "Output": "Deslize para a posição 3, pressione o botão vermelho, abra a tampa da base."}
 {"Instruction": "Qual é o resultado de tocar o botão vermelho de parada de emergência?", "Output": "O alarme parará e o motor desligará após 2 ou 12 segundos."}
 {"Instruction": "Quais são as etapas iniciais para testar funções de emergência em uma máquina?", "Output": "Puxe o botão vermelho de emergência para ligar e teste cada chave seletora de função."}
-{"Instruction": "Quais são as instruções para garantir a segurança da bateria?", "Output": "Evite operar launch pad e plataforma simultaneamente, segure a chave de função."}
 {"Instruction": "Quais funções da lança e da plataforma devem ser testadas para garantir o funcionamento completo?", "Output": "Testes das funções da lança e da plataforma."}
 {"Instruction": "Que ação deve ser tomada para testar a parada de emergência?", "Output": "Localize e pressione o botão vermelho de parada de ciclo de operação."}
 {"Instruction": "Quais são as etapas para reagir em caso de emergência com o motor desativado?", "Output": "1. Desligar o motor, 2. Puxar o botão vermelho de parada, 3. Tocar o triângulo azul."}
@@ -90,11 +79,10 @@
 {"Instruction": "Quais são os requisitos para iniciar o movimento da máquina?", "Output": "Mova e segure a chave seletora de habilitação."}
 {"Instruction": "Quais são os requisitos para os freios e alavanca de controle da máquina?", "Output": "Os freios devem ter capacidade de lentamente e a alavanca de controle deve mover a máquina no centro quando em terreno inclinado. A função de movimento deve funcionar, permitindo movimento em sentido oposto quando o sistema de habilitação estiver em uso."}
 {"Instruction": "Quais cores são usadas nos controles da plataforma e no chassi da máquina para indicar a direção do movimento?", "Output": "Azul na direção, amarelo para o número de peça."}
-{"Instruction": "Qual é a instrução dada para o teste de velocidade de operação limitada?", "Output": "Pressione a chave de pé 36 vezes. Levante a lança primária cerca de 61 cm. Mova lentamente a alavanca de controle."}
+{"Instruction": "Qual é a instrução dada para o teste de velocidade de operação limitada?", "Output": "Pressione a chave de pé. Levante a lança primária cerca de 61 cm. Mova lentamente a alavanca de controle."}
 {"Instruction": "Qual deve ser a taxa máxima de movimento da lança primária?", "Output": "15 cm por segundo."}
 {"Instruction": "Quais são as instruções específicas para o movimento da lança primária?", "Output": "Desça a lança até retraída, depois levante cerca de 61 cm. Mova lentamente a alavanca para a posição máxima."}
 {"Instruction": "Qual é a velocidade máxima de operação permitida para a lança secundária?", "Output": "30 cm por segundo"}
-{"Instruction": "Quão longas deve ser estendida a lança primária?", "Output": "30 cm\n\nINSTRUCTION: Qual movimento deve ser feito com a alavanca de controle?"}
 {"Instruction": "Qual é a velocidade máxima permitida da lança primária estendida?", "Output": "30 cm por segundo"}
 {"Instruction": "Qual é a primeira etapa para realizar testes de função em um modelo com eixo oscilante?", "Output": "Empurrar a chave de pé no motor."}
 {"Instruction": "Quais são as instruções para ativar a função de direção à direita?", "Output": "Ligar a chave seletora de direção na roda direita, com um calço ou guia de 15 cm."}
