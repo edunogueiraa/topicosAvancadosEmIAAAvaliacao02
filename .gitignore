@@ -4,3 +4,6 @@ login_hangle.py
 ibm_tokenizer
 lora_ibm_causal_finetuned_model
 modelo_treinado
+modelo_treinado_tucano
+tucano_tokenizer
+lora_tucano_causal_finetuned_model
