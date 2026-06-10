@@ -1,6 +1,6 @@
 __pycache__/
 .venv
 login_hangle.py
-lhama_tokenizer
-lora_lhama_causal_finetuned_model
-modelos_treinados
+ibm_tokenizer
+lora_ibm_causal_finetuned_model
+modelo_treinado
