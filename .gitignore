@@ -12,8 +12,8 @@ modelo_treinado_tucano
 tucano_tokenizer
 lora_tucano_causal_finetuned_model
 
-#Unicamp
-lora_unicamp_sequencial_finetuned_model
-modelo_treinado_unicamp
-unicamp_tokenizer
+#Google
+lora_google_sequencial_finetuned_model
+modelo_treinado_google
+google_tokenizer
 
