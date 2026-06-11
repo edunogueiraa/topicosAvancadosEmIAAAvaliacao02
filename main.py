@@ -30,7 +30,7 @@ from pydantic import BaseModel
 # AutoModelForCausalLM : carrega qualquer modelo de geração de texto automaticamente
 # AutoTokenizer        : carrega o tokenizador correspondente ao modelo
 # pipeline             : abstração de alto nível para tarefas de NLP
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from transformers import AutoModelForCausalLM, AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 
 # --- PyTorch ---
 # Biblioteca de deep learning; usada para inferência nos modelos
@@ -55,7 +55,7 @@ logger = logging.getLogger(__name__)
 # O título e a versão aparecem na documentação automática em /docs
 
 app = FastAPI(
-    title="ChatGPT Clone - Laboratório LLM",
+    title="Genie LLM",
     description="API para interagir com modelos de linguagem (base e fine-tunado com LoRA)",
     version="1.0.0",
 )
@@ -131,7 +131,32 @@ def carregar_modelo_base() -> dict:
     return {"model": model, "tokenizer": tokenizer, "pipeline": pipe}
 
 
-def carregar_modelo_finetuned() -> dict:
+def carregar_modelo_ibm_causal_finetuned() -> dict:
+
+    model_path = "./notebooks/fine-tuning/ibm_causal/lora_ibm_causal_finetuned_model"
+    tokenizer_path = "./notebooks/fine-tuning/ibm_causal/ibm_tokenizer"
+
+
+    logger.info(f"Carregando modelo FINE-TUNADO (LoRA) de '{model_path}'...")
+
+    tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
+
+    # Carrega o modelo com os adaptadores LoRA.
+    # O from_pretrained é inteligente: se detectar configs LoRA, carrega corretamente.
+    model = AutoModelForCausalLM.from_pretrained(model_path)
+    model.eval()
+
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        device=-1
+    )
+
+    logger.info("  ✓ Modelo FINE-TUNADO carregado com sucesso!")
+    return {"model": model, "tokenizer": tokenizer, "pipeline": pipe}
+
+def carregar_modelo_tucano_causal_finetuned() -> dict:
     """
     Carrega o modelo fine-tunado com LoRA (Low-Rank Adaptation).
 
@@ -145,8 +170,8 @@ def carregar_modelo_finetuned() -> dict:
 
     Se os arquivos locais não existirem, faz fallback para o modelo base.
     """
-    model_path = "./lora_finetuned_model"
-    tokenizer_path = "./distilgpt2_tokenizer"
+    model_path = "./notebooks/fine-tuning/tucano_causal/lora_tucano_causal_finetuned_model"
+    tokenizer_path = "./notebooks/fine-tuning/tucano_causal/tucano_tokenizer"
 
     # Verifica se os arquivos do modelo fine-tunado existem localmente
     if not os.path.exists(model_path):
@@ -161,7 +186,7 @@ def carregar_modelo_finetuned() -> dict:
 
     # Carrega o tokenizador do caminho local
     # Se o tokenizador local não existir, tenta o caminho do modelo
-    tok_path = tokenizer_path if os.path.exists(tokenizer_path) else model_path
+    tok_path = tokenizer_path #if os.path.exists(tokenizer_path) else model_path
     tokenizer = AutoTokenizer.from_pretrained(tok_path)
 
     # Mesma garantia do pad_token para o modelo fine-tunado
@@ -185,6 +210,59 @@ def carregar_modelo_finetuned() -> dict:
     return {"model": model, "tokenizer": tokenizer, "pipeline": pipe}
 
 
+def carregar_modelo_unicamp_sequencial_finetuned() -> dict:
+    """
+    Carrega o modelo fine-tunado com LoRA (Low-Rank Adaptation).
+
+    LoRA é uma técnica de fine-tuning eficiente que adiciona pequenas matrizes
+    de adaptação aos pesos originais do modelo, sem modificá-los diretamente.
+    Resultado: modelo especializado, muito menor que um fine-tune completo.
+
+    Caminhos locais esperados:
+      - ./lora_finetuned_model/   → adaptadores LoRA + config do modelo
+      - ./distilgpt2_tokenizer/   → tokenizador salvo localmente
+
+    Se os arquivos locais não existirem, faz fallback para o modelo base.
+    """
+    model_path = "./notebooks/fine-tuning/unicamp_sequencial/lora_unicamp_sequencial_finetuned_model"
+    tokenizer_path = "./notebooks/fine-tuning/unicamp_sequencial/unicamp_tokenizer"
+
+    # Verifica se os arquivos do modelo fine-tunado existem localmente
+    if not os.path.exists(model_path):
+        logger.warning(
+            f"Diretório '{model_path}' não encontrado. "
+            "Usando modelo base como fallback para o 'fine-tunado'."
+        )
+        # Fallback: usa o modelo base para não quebrar a aplicação
+        return carregar_modelo_base()
+
+    logger.info(f"Carregando modelo FINE-TUNADO (LoRA) de '{model_path}'...")
+
+    # Carrega o tokenizador do caminho local
+    # Se o tokenizador local não existir, tenta o caminho do modelo
+    tok_path = tokenizer_path #if os.path.exists(tokenizer_path) else model_path
+    tokenizer = AutoTokenizer.from_pretrained(tok_path)
+
+    # Mesma garantia do pad_token para o modelo fine-tunado
+    if tokenizer.pad_token is None:
+        tokenizer.pad_token = tokenizer.eos_token
+        logger.info("  → pad_token definido como eos_token (fine-tunado)")
+
+    # Carrega o modelo com os adaptadores LoRA.
+    # O from_pretrained é inteligente: se detectar configs LoRA, carrega corretamente.
+    model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
+    model.eval()
+
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        device=-1
+    )
+
+    logger.info("  ✓ Modelo FINE-TUNADO carregado com sucesso!")
+    return {"model": model, "tokenizer": tokenizer, "pipeline": pipe}
+
 # =============================================================================
 # EVENTO DE INICIALIZAÇÃO DA APLICAÇÃO
 # =============================================================================
@@ -203,10 +281,13 @@ async def startup_event():
     logger.info("=" * 60)
 
     # Carrega e registra o modelo base
-    MODELS["distilgpt2-base"] = carregar_modelo_base()
+    #MODELS["distilgpt2-base"] = carregar_modelo_base()
 
     # Carrega e registra o modelo fine-tunado
-    MODELS["distilgpt2-lora"] = carregar_modelo_finetuned()
+    MODELS["ibm-granite"] = carregar_modelo_ibm_causal_finetuned()
+    MODELS["tucano-1b1"] = carregar_modelo_tucano_causal_finetuned()
+    
+    MODELS["unicamp-dl"] = carregar_modelo_unicamp_sequencial_finetuned()
 
     logger.info("=" * 60)
     logger.info(f"  ✓ {len(MODELS)} modelo(s) disponível(is): {list(MODELS.keys())}")
@@ -270,15 +351,20 @@ async def listar_modelos():
     }
     """
     modelos_info = {
-        "distilgpt2-base": {
-            "id": "distilgpt2-base",
-            "nome": "DistilGPT-2 Base",
-            "descricao": "Modelo base pré-treinado, sem fine-tuning."
+        "ibm-granite": {
+            "id": "ibm-granite",
+            "nome": "IBM-granite Causal",
+            "descricao": "Modelo adaptado com LoRA para domínio do manual operador Genie."
         },
-        "distilgpt2-lora": {
-            "id": "distilgpt2-lora",
-            "nome": "DistilGPT-2 Fine-tunado (LoRA)",
-            "descricao": "Modelo adaptado com LoRA para domínio específico."
+        "tucano-1b1": {
+            "id": "tucano-1b1",
+            "nome": "Tucano-1b1 Causal",
+            "descricao": "Modelo adaptado com LoRA para domínio do manual operador Genie."
+        },
+        "unicamp-dl": {
+            "id": "unicamp-dl",
+            "nome": "Unicamp-dl Sequencial",
+            "descricao": "Modelo adaptado com LoRA para domínio do manual operador Genie."
         },
     }
 
