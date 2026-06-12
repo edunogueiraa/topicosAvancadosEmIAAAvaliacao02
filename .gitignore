@@ -17,3 +17,7 @@ lora_google_sequencial_finetuned_model
 modelo_treinado_google
 google_tokenizer
 
+#Google
+lora_unicamp_sequencial_finetuned_model
+modelo_treinado_unicamp
+unicamp_tokenizer
