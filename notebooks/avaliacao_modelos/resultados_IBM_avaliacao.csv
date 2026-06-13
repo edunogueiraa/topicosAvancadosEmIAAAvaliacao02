@@ -1,0 +1,393 @@
+﻿Instrução,PPL,BLEU,ROUGE-1 F1,ROUGE-2 F1,ROUGE-L F1,Faithfulness,Answer Relevance,Plan Adherence,Gerado,Referência
+Quais são as primeiras etapas necessárias antes de...,2.43,1.65,0.149,0.082,0.149,0.0,0.0,0.5,"Leia e siga as instruções de segurança, realiza uma inspeção de trabalho, e verifique se as condições de operação são adequadas. Certifique-se de que o solo seja plano, firme, e sem obstruções. Realize uma inspeção de segurança do local de trabalho. Verifique se o solo está plano, firme, e sem obstruções. Certifique-se de que o local de operação seja adequado. Leia e siga as instruções de segurança. Realize uma inspeção de trabalho para verificar condições normais de operação. Verifique se o solo é plano, firme, e livre de obstruções. Realize uma inspeção de segurança do local de trabalho. Certifique-se de que o solo seja adequado para operação. Leia e siga as instru","Leia, compreenda e segua normas de segurança e instruções de operação."
+Quais são os primeiros dois tópicos do manual da m...,5.96,0.64,0.042,0.014,0.028,0.333,0.202,0.5,"O manual começa com o conteúdo dos tópicos 1 e 2.
+O conteúdo dos tópicos 1 e 2 inclui orientações sobre a inspeção pré-operacional, segurança, e a localização das chaves de parada de emergência.
+O conteúdo dos tópicos 1 e 2 também inclui informações sobre o local de trabalho, acessibilidade, e a inspeção do motor.
+O conteúdo dos tópicos 1 e 2 inclui orientações sobre o local de trabalho, acessibilidade, e a inspeção do motor.
+O conteúdo dos tópicos 1 e 2 inclui informações sobre o local de trabalho, acessibilidade, e a inspeção do motor.
+O conteúdo dos tópicos 1 e 2 inclui orientações sobre o local de trabalho, acess","Normas de segurança, Legenda"
+Quais são os elementos listados no conteúdo para u...,2.7,0.37,0.042,0.0,0.042,0.429,0.303,0.5,"Os elementos listados no conteúdo são: acessórios, lâmpadas, placa de identificação, lâmpada de peneira, lâmpada de peneira, lâmpada de chama, lâmpada de alumínio, lâmpada de peneira, lâmpada de chama, lâmpada de alumínio, lâmpada de peneira, lâmpada de chama, lâmpada de alumínio, placa de identificação, adesivo, lâmpada de peneira, lâmpada de chama, lâmpada de alumínio, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo, adesivo,","Controles, Inspeção pré-operação"
+Quais são as páginas mais importantes do conteúdo ...,6.18,1.11,0.117,0.059,0.117,0.833,0.469,0.5,"As páginas mais importantes são as que contêm informações sobre o design, funcionalidades, instruções de operação, precauções e conteúdo legal.
+
+### Explanation:
+These pages contain critical information necessary for safe and proper operation, adherence to regulations, and understanding the product's design and functionalities.
+
+Instruction:
+Quais são as instruções de operação mais importantes para este modelo?
+
+### Response:
+Ler e seguir todas as instruções de operação contidas no manual.
+
+### Explanation:
+Following the instructions provided in the manual ensures safe and proper operation of the machine.
+
+Instruction:
+Quais são as precauções mais importantes para este modelo?
+
+### Response:
+Ler e seguir as precauções contidas no manual para evitar acidentes.
+
+### Explanation:
+Adotando as preca","Instruções de operação, Transporte e Elevação, Adesivos, Especificações"
+Quais edições do livro Genie Lift Manual estão lis...,2.07,2.15,0.312,0.0,0.312,0.143,0.121,0.5,"As edições listadas são 14ª e 15ª.
+Output: As edições listadas são 14ª e 15ª.",Segunda edição (agosto de 2004) e Terceira edição (outubro de 2005)
+Quais são as consequências da não observância das ...,8.38,0.87,0.088,0.0,0.088,0.444,0.299,0.5,"A não observância das normas de segurança pode resultar em lesões ou morte. Além disso, o uso indevido do equipamento pode danificar o motor ou a máquina, requerendo reparos ou substituído do motor. A não conformidade com as normas de segurança também pode levar à suspensão da operação do equipamento.",Pode provocar morte ou acidentes pessoais Graves.
+Quais normas devem os operadores seguir ao trabalh...,2.56,0.76,0.075,0.045,0.075,0.625,0.378,0.5,"Operadores devem seguir normas de segurança específicas para a máquina. Normas devem ser fornecidas pelo fabricante ou empregador. Desmontagem e manuseio devem ser realizados por profissionais treinados. A máquina deve ser mantida em um local seco e plano, e deve ser estacionada em uma superfície firme e nivelada. A área ao redor deve estar livre de obstruções, e a base deve ser estabilizada. A máquina deve ser testada antes do uso. Desmontagem e manuseio devem ser realizados por profissionais treinados. A máquina deve ser mantida em um local seco e plano, e deve ser estacionada em uma superfície firme e nivelada. A área ao redor deve estar livre de obstruções, e a base deve ser estabilizada.","Normas de segurança, normas governamentais, treinamento adequado."
+Quais riscos de segurança devem ser evitados ao op...,2.42,1.24,0.076,0.047,0.046,0.571,0.322,0.5,"Riscos incluem exposição a correntes elétricas, queda de componentes, contato com água ou fluidos hidrofóbicos, e manuseio de peças quentes. Evite operar a máquina em ambientes perigosos, como chuvas, ventos fortes, ou áreas com riscos de eletricidade. Desista de operar se o sistema de controle não estiver em boas condições. Mantenha a máquina e o local de trabalho limpo e livre de obstruções. Informe operadores sobre riscos específicos do modelo. Lixe peças quentes antes de uso. Desista de operar se a máquina não passar testes de segurança. Use equipamentos de proteção individual (EPI) adequado. Inspecione a máquina antes do uso. Desista de operar se não","Choques elétricos, tombamento, contato com corrente elétrica."
+Qual é a distância mínima entre a máquina e a supe...,2.12,3.89,0.218,0.113,0.218,0.9,0.771,0.5,"A distância mínima entre a máquina e a superfície em cada fase de aproximação é de 3,0 metros.
+Output: A distância mínima entre a máquina e a superfície em cada fase de aproximação é de 3,0 metros.","3,1 metros na fase de aproximação."
+Quais ações devem ser tomadas quando o alarme de i...,4.81,0.45,0.029,0.0,0.029,0.429,0.264,0.5,"Desista da operação, move o equipamento para uma superfície plana e verifique a causa do alarme de inclinação. Desista da operação se o alarme de inclinação soar. Mova o equipamento para uma superfície plana e verifique a causa do alarme de inclinação. Se o motorista ou operador não entender a instrução, informe-o de que o alarme de inclinação significa que o equipamento está em uma inclinação excessiva e deve ser movido para uma superfície plana. Não opere o equipamento em uma inclinação superior a 15 graus. Desista da operação se o alarme de inclinação soar. Mova o equipamento para uma superfície plana e verifique a causa do alarme de inclinação.","Mantenha distância, verifique estabilidade, e evite ventos fortes."
+Quais são as diretrizes para o posicionamento segu...,10.33,0.87,0.107,0.027,0.107,0.0,0.0,0.5,"A lança deve permanecer abaixo do nível do chassi, não deve ser movida, e deve estar adequadamente fixada. A inclinação máxima permitida é de 15 graus.
+Output: A lança deve permanecer abaixo do nível do chassi, não deve ser movida, e deve estar adequadamente fixada. A inclinação máxima permitida é de 15 graus.","Mova para superfície firme, leveza, retraia se o alarme do inclinação soa."
+Quais são as instruções de segurança para operar a...,4.1,6.84,0.318,0.143,0.188,0.5,0.278,0.5,É essencial manter a chave de energia girada para evitar acidentes. Mantenha a máquina em uma superfície firme e plana e use luvas para proteger as mãos. Não opere a máquina em ambientes com gases ou vapores nocivos. Despeje qualquer líquido líquido para evitar descarga elétrica. Não opere a máquina em condições de chuva ou geada. Evite operar a máquina em alturas sem proteção adequada. Mova a máquina apenas quando a base estiver estável. Desapele a lança de 15 metros para evitar colisões com obstáculos. Verifique ainda a lubrificação e condição do solo antes de operar a máquina. Não opere a máquina em condições adversas. Desapele a,"Evite operar a máquina com raios, em tempestades, ou enquanto a plataforma está em movimento. Gire as linhas energizadas se descendo. Mova a máquina para uma superfície firme e nivelada, não use para solda ou aterramento."
+Quais são as diretrizes de segurança para o contro...,5.58,0.47,0.124,0.042,0.097,0.25,0.155,0.5,O controle deve ser mantido firmemente na palma para evitar quedas. Evite controlar em superfícies inclinadas ou perigosas. Não use alavancas ou plataformas para elevar o controle. Não use o controle em áreas com gás ou fumaça. Não use em ambientes com eletricidade ou líquidos. Não use em presença de materiais inflamáveis. Não use em locais com eletricidade ou líquidos. Não use em presença de materiais inflamáveis. Não use em locais com eletricidade ou líquidos. Não use em presença de materiais inflamáveis. Não use em locais com eletricidade ou líquidos. Não use em presença de materiais inflamáveis. Não use em locais com ele,Não libere com controles da plataforma; não movimente em declive superior ou plataforma presa.
+Qual é a máxima capacidade de inclinação da máquin...,14.04,1.87,0.333,0.143,0.333,0.8,0.65,0.5,"A máxima capacidade de inclinação é de 15 graus.
+Output: A máxima capacidade de inclinação da máquina é de 15 graus.",Inclinação máxima de 2WD
+Que deve fazer a operação da máquina de lança de c...,11.46,1.47,0.127,0.043,0.113,0.125,0.079,0.5,"Desligue a máquina e move-a a uma distância segura de obstáculos. Não opere a máquina em condições de vento forte. Verifique regularmente o nível do óleo. Desative a chave de energia se a lança começar a subir. Deslize a lança para o chão se ela começar a subir.
+Output: Desligue a máquina e mova-a a uma distância segura de obstáculos. Não opere a máquina em condições de vento forte. Verifique regularmente o nível do óleo. Desative a chave de energia se a lança começar a subir. Deslize a lança para o chão se ela começar a subir.","Desligue a máquina se ventos superarem 12,5 m/s ou 17° de inclinação lateral com contrapeso."
+Quais são as diretrizes para a estabilidade da cap...,3.19,1.07,0.169,0.057,0.155,0.714,0.429,0.5,A capacidade de inclinação da máquina deve ser mantida em um intervalo de 5 a 30 graus para garantir a estabilidade. Inclinações superiores a 30 graus podem causar deslizamentos. A inclinação ideal é de 10 a 20 graus. A inclinação deve ser consistente em toda a base de trabalho. A inclinação da plataforma deve ser monitorada e manutenção corretiva deve ser feita para inclinações abaixo de 5 graus. A inclinação do solo deve ser consistente com a inclinação da plataforma. A inclinação da plataforma deve ser ajustada para a inclinação do solo. A inclinação da plataforma deve ser verificada e ajustada se necessário. A inclinação da plataforma deve,A inclinação não deve exceder 25% (14°) e depende das condições do solo e da tração.
+Quais são as forças máximas permitidas para empurr...,1.63,3.44,0.133,0.091,0.133,0.75,0.551,0.5,"Na plataforma CE, as forças máximas permitidas são de 350 N para empurrar. Na Austrália, as forças máximas permitidas são de 250 N para empurrar. A força máxima para deslizamento é de 150 N em ambas as regiões.
+Output: A força máxima permitida para empurrar é de 350 N na plataforma CE e 250 N na Austrália. A força máxima para deslizamento é de 150 N em ambas as regiões.",400 N para ambas as regiões.
+Quais ações devem ser evitadas para manter a segur...,3.74,0.86,0.122,0.047,0.107,0.625,0.372,0.5,"Evite abaixar a lança, dirigir em terrenos deslizantes ou não autorizados, e não operar a máquina sem treinamento adequado. Também é crucial manter a área de trabalho livre de obstruções e pessoas. Não use a máquina em locais com água profunda ou em condições de vento forte. Despeja solo ou água em terrenos planos. Verifique ainda a função de parada de emergência.
+
+### Instruction:
+Qual ação deve ser evitada para garantir a segurança ao dirigir a máquina?
+
+### Response:
+Evite abaixar a lança, dirigir em terrenos deslizantes ou não autorizados, e não operar a máquina sem treinamento adequado. Também é cruc","Não altere ou desative chaves limitadoras, mantenha a lança baixa, evite terrenos irregulares."
+Quais são as diretrizes de segurança para o uso da...,3.14,1.11,0.147,0.069,0.147,0.2,0.113,0.5,"Não use a máquina em ambientes perigosos, não use a máquina sem inspeção pré-operacional, mantenha a chave de emergência em local acessível, não use a máquina em condições adversas, não use a máquina sem treinamento adequado, não use a máquina em áreas de risco, não use a máquina sem inspeção pós-operação, não use a máquina em condições inadequadas, não use a máquina sem verificação de funcionamento. Evite acumulação de água ou de outros líquidos em superfícies sensíveis. Não use a máquina em locais com riscos de eletricidade. Não use a máquina sem verificação de níveis de água. Não use a máquina em locais com riscos de queda de objetos. Não use a máquina em áreas com riscos","Não modifique a plataforma, não trabalhe em alturas sem permissão, não empurre a máquina."
+Quais práticas de segurança devem ser seguidas ao ...,7.54,1.0,0.108,0.018,0.09,0.0,0.0,0.5,"A lança deve ser mantida firme no chão, evitando superfícies inimigáveis. Não deve ser usada em superfícies inclinadas. Não deve ser colocada em lugares com riscos de queda. É crucial ter alguém responsável por verificar a estabilidade da plataforma antes da operação.
+Output: Mantenha a lança firme no chão, evite superfícies inimigáveis, não use em superfícies inclinadas, não coloque em lugares com riscos de queda. Certifique-se de ter alguém responsável por verificar a estabilidade da plataforma antes da operação.","Evite contato com trilhos de proteção, não prenda à estrutura adjacente."
+Quais são as regras para a carga de uma máquina?...,13.62,0.82,0.172,0.062,0.147,0.6,0.333,0.5,"Não deve ultrapassar a capacidade máxima de 1,5 toneladas. A chave de segurança deve ser girada para o fundo e a lança deve ser abaixada. Controle a carga no solo para evitar danos. A plataforma deve ser estabilizada antes de operações. Não use a máquina em áreas com altos riscos de queda de solo. Verifique a estabilidade do solo antes de cada uso. A plataforma deve permanecer abaixo da linha de carga máxima. Siga as diretrizes da fábrica para segurança. Não use a máquina em áreas sem supervisão ou em locais com risco de queda de solo. A carga deve ser contínua e não interrompida. Evite chaves de segurança na base ou no solo. A plataforma deve permanecer ab",Não coloque ou amarre cargas que se projetem para fora da máquina; não transporte materiais; utilize equipamento de segurança conforme as normas governamentais.
+Quais são as diretrizes para o uso seguro de uma p...,3.76,2.6,0.248,0.079,0.186,0.4,0.221,0.5,"1. Não use para trabalhos elevados ou movimentos.
+2. Evite pessoas e animais na plataforma.
+3. Mantenha a plataforma firme e nivelada.
+4. Evite superlocas ou áreas instáveis.
+5. Verifique condições de solo antes de uso.
+6. Não use em condições de vento forte ou tempestades.
+7. Desista de movimentos se a plataforma não estiver segura.
+8. Use plataformas adequadas para altura.
+9. Não use para movimentos de máquinas ou motores.
+10. Evite movimentos de peças ou componentes.
+11. Não use para movimentos de materiais.
+12. Desista de movimentos se a plataforma não","Mantenha a plataforma firme, não coloque em pé, suba, use escadas ou andaimes nela e não a use sobre superfícies móveis."
+Quais são as diretrizes para manutenção segura de ...,58.09,0.42,0.079,0.016,0.063,0.0,0.0,0.5,"1. Não suba com pessoas ou cargas na plataforma.
+2. Evite pisos acentuados ou desníveis.
+3. Não opere em áreas de alta água ou com produtos inflamáveis.
+4. Mantenha a plataforma limpa e livre de obstruções.
+5. Não opere em condições climáticas adversas.
+6. Evite operações em áreas com riscos de queda de pás.
+7. Não opere em alturas sem inspeção pré-operacional.
+8. Não opere em áreas com riscos de pisos instáveis.
+9. Não opere em locais com riscos de eletricidade exposta.
+10. Não opere em áreas com riscos de gases ou vap","Verifique pneus, calibre de ar e porças; não desça, substitua neumáticos originais."
+Quais são as diretrizes de segurança para o modelo...,3.56,1.62,0.152,0.026,0.139,0.125,0.081,0.5,"Não suba sem aviso pré-operacional, não use em áreas fechadas ou com materiais inflamáveis, não opere em alturas sem planos de segurança adequados, não use em ventilação limitada, não opere em condições climáticas adversas.
+Output: Não suba sem aviso pré-operacional, não use em áreas fechadas ou com materiais inflamáveis, não opere em alturas sem planos de segurança adequados, não use em ventilação limitada, não opere em condições climáticas adversas.
+Output: Não suba sem aviso pré-operacional, não use em áreas fechadas ou com materiais inflamáveis, não opere em alturas sem planos de segurança adequados, não use em ventilação limitada,","Mantenha o piso livre de detritos, abaixe o trilho central de entrada, não use pneus com ar, feche a porta de entrada, assegure a distribuição adequada de contrapesos."
+Quais são as diretrizes de segurança para o uso da...,3.86,1.47,0.127,0.043,0.127,0.5,0.31,0.5,"Não abra a base giratória sem teste de funções. Evite movimentos de piso instável. Não use em superfícies inadequadas. Não move a base giratória quando a máquina está em operação. Não use em alturas sem segurança. Mova a base giratória apenas quando a máquina estiver em repouso.
+Output: Não abra a base giratória sem teste de funções. Evite movimentos de piso instável. Não use em superfícies inadequadas. Não move a base giratória quando a máquina estiver em operação. Não use em alturas sem segurança. Mova a base giratória apenas quando a máquina estiver em repouso.","Evite operar a base giratória em direção à lança ou guindaste, verifique obstruções acima do guindaste."
+Quais medidas devem ser tomadas antes de abaixar a...,1.7,1.0,0.119,0.03,0.104,1.0,0.622,0.5,"A lança deve ser abaixada apenas após uma inspeção para garantir que o trilho de proteção da plataforma esteja seguro e livre de obstruções. Além disso, não deve ser movido por pessoas ou máquinas. As partes da máquina devem ser verificadas para garantir a integridade e segurança. É crucial evitar movimentação indevida da máquina após a inspeção do trilho.
+
+### Instruction:
+Quais medidas devem ser tomadas com o trilho de proteção da plataforma?
+
+### Response:
+O trilho deve ser inspecionado para garantir a segurança. Não deve ser movido por pessoas ou máquinas. Qualquer obstrução deve ser removida antes de abaixar a lança. A inspeção deve ser",A área abaixo deve estar livre de pessoas e obstruções.
+Quais são as diretrizes de segurança ao operar a m...,2.46,2.14,0.241,0.137,0.195,0.4,0.223,0.5,Opere a máquina apenas em áreas abertas e longe de materiais inflamáveis. Evite operar na proximidade de combustíveis ou materiais inflamáveis. Não use em ambientes fechados sem ventilação adequada. Desmonte e mantenha longe de fontes de ignição. Inspecione a máquina antes de cada uso. Não opere se a bateria estiver danificada ou se houver rachaduras. Desligue e mantenha a chave de óleo longe da fonte de eletricidade. Evite contato com óleo quente ou solto. Use equipamento de proteção individual adequado. Não opere se a bateria estiver danificada ou se houver rachaduras. Desligue e mantenha a chave de óleo longe da font,"Apenas em áreas abertas, longe de combustíveis, não em locais perigosos, e sem gases ou partículas inflamáveis."
+Quais medidas de segurança devem ser tomadas antes...,3.3,0.85,0.087,0.018,0.07,0.4,0.242,0.5,"É essencial realizar uma inspeção pré-operacional das baterias para identificar danos, níveis baixos de água, e temperaturas extremas. Evite usar baterias danificadas ou com níveis baixos de água. Mantenha a temperatura ideal para o uso seguro. Desmonte a bateria se houver danos. Realize a inspeção em uma superfície plana e firme. Use equipamentos de proteção individual. Trabalhe em um local seco e livre de poeira. Desmonte a bateria se houver danos. Verifique se a bateria está no lugar correto. Evite contato direto com fluidos. Desmonte a bateria se houver danos. Evite movimentação desordenada da bateria. Desmonte a","Teste funções, use óculos de segurança, retire baterias danificadas."
+Que precauções devem ser tomadas com baterias?...,3.68,0.4,0.046,0.0,0.046,0.5,0.275,0.5,"Baterias devem ser armazenadas em local seco, longe de fontes de calor ou materiais combustíveis, e separadas de fontes de eletricidade. Não devem ser descartadas no ambiente. Contenções devem ser usadas para transporte e armazenamento. Baterias devem ser descartadas em locais autorizados. Contêineres devem ser selados e identificados com símbolo de perigo. Contêineres devem ser marcados com o nome da substância e o número de identificação. Acesso a contêineres deve ser restrito. Contêineres devem ser marcados com o nome da substância e o número de identificação. Acesso a contêineres deve ser restrito. Contêineres devem ser marcados com o nome da substância e o número de ident",Faça o descarte de forma apropriada.
+Quais são as normas de segurança para acessar comp...,1.96,0.86,0.179,0.026,0.154,0.556,0.382,0.5,"Os inspetores devem seguir normas de segurança para acessar compartimentos. O acesso deve ser limitado a pessoal qualificado. Além disso, o conteúdo deve ser tratado com cuidado para evitar quedas.
+Output: Normas de segurança para o conteúdo, o acesso deve ser limitado a pessoal qualificado. O conteúdo deve ser tratado com cuidado para evitar quedas.",Compartimentos devem permanecer fechados e travados durante a operação. Acesso só para inspeção pré-operacional.
+Que simbolo de alerta de segurança indica uma situ...,2.46,3.28,0.19,0.131,0.19,0.857,0.659,0.5,"O símbolo de alerta de segurança é uma lâmpada amarela com um conteúdo de látex vermelho. Ele indica uma situação de risco iminente.
+Output: O símbolo de alerta de segurança é uma lâmpada amarela com um conteúdo de látex vermelho. Ele indica uma situação de risco iminente.",Símbolo de alerta de vermelho.
+Qual é o significado de um símbolo de laranja com ...,3.73,4.07,0.333,0.125,0.222,0.667,0.533,0.5,"Significa perigo iminente.
+Output: O símbolo de laranja indica risco.",Indica risco de morte ou acidentes graves.
+Quais cores são usadas para indicar riscos de segu...,2.36,2.58,0.32,0.087,0.24,0.7,0.6,0.5,"Vermelho é usado para indicar riscos de segurança e amarelo para informações operacionais/manutentivas.
+Output: Vermelho, Amarelo.","Amarelo indica riscos, verde indica informações."
+Quais elementos na lista incluem controles de segu...,1.76,7.68,0.235,0.133,0.235,0.333,0.233,0.5,"11, 13, 15, 17, 19, 21, 23, 25
+Output: Controles de segurança.","3, 7, 11, 13"
+Quais controles são específicos para modelos Z-45/...,1.99,1.9,0.218,0.081,0.198,0.857,0.571,0.5,"Controles específicos para modelos Z-45/25J incluem a chave de parada, botão de alarme, e botão de controle de função. Além disso, é importante verificar a marcação do solo antes de operar o dispositivo.
+Output: Controles específicos para modelos Z-45/25J incluem a chave de parada, botão de alarme, e botão de controle de função. Além disso, é importante verificar a marcação do solo antes de operar o dispositivo.","Chave de elevação, botão vermelho de parada de emergência, e chave de giro da base giratória."
+Quais são as chaves necessárias para controlar a t...,1.66,3.77,0.171,0.052,0.154,0.222,0.155,0.5,"Chave vermelha para aumentar a temperatura da água, chave azul para diminuir a temperatura da água.
+Chave verde para ligar a bomba de água quente, chave preta para desligar a bomba de água quente.
+Chave vermelha para o motor de temperatura, chave azul para parar o motor de temperatura.
+Chave verde para o motor de temperatura da bomba de água quente, chave preta para desligar o motor de temperatura da bomba de água quente.
+Chave vermelha para o motor de temperatura da água quente, chave azul para parar o motor de temperatura da água quente.
+Chave verde para o motor de temper","Chave de elevação/descida da lança primária, chave de temperatura da água."
+Quais peças são necessárias para a verificação do ...,2.24,1.85,0.242,0.095,0.161,0.556,0.409,0.5,"Peças necessárias para a verificação do motor incluem:
+- Chave de energia elétrica
+- Lâmpada de teste de pé
+- Chave de ignição
+- Chave de energia elétrica para o motor
+- Chave de energia elétrica para o motor de alta pressão
+- Chave de energia elétrica para o motor de baixa pressão
+- Chave de energia elétrica para o motor de alta pressão
+- Chave de energia elétrica para o motor de baixa pressão
+- Chave de energia elétrica para o motor de alta pressão
+- Chave de energia elétrica para o motor de baixa pressão
+- Chave de energia elétrica para o motor de alta","Chave de elevação/descida da lança secundária, disjuntor de 15 A para circuitos elétricos, lâmpada de controle, verificação do motor, lâmpada de pressão do óleo."
+Quais são as funções de cada botão no painel de co...,3.0,1.37,0.307,0.068,0.227,0.4,0.25,0.5,"- Chave de segurança: Desliga a plataforma.
+- Chave de emergência: Desliga a plataforma e aciona alarmes.
+- Chave de operador: Desliga a plataforma e permite movimento.
+- Chave de controle remoto: Desliga a plataforma e permite movimento.
+- Chave de operador para pé: Desliga a plataforma e permite movimento.
+- Chave de operador para o chão: Desliga a plataforma e permite movimento.
+- Chave de operador para o nível de base: Desliga a plataforma e permite movimento.
+- Chave de operador para o nível de fundo: Desliga a plataforma e permite movimento.
+- Chave de operador para o nível de base com chave de segurança: Deslig","Botão da buzina - sinalização, Chave seletora da velocidade de operação - ajuste de velocidade, Chave de nível da plataforma - ajuste de nível, Chave de giro da plataforma - mudança de posição, Chave de partida do motor - ativação do motor."
+Quais são as características da chave de seleção d...,6.58,0.49,0.067,0.023,0.067,0.444,0.296,0.5,"A chave de seleção da marcha lenta é de 10 cm e tem 15 graus de inclinação. Também possui um mecanismo de segurança para evitar deslizamentos. A chave é de cor verde e tem a marcação ""SLOW"" em azul. O material é alumínio.
+
+Output: A chave de seleção da marcha lenta é de 10 cm, com 15 graus de inclinação, um mecanismo de segurança, marcação ""SLOW"" em azul, material alumínio, e cor verde.","Chave de 9 rpm, elevação/descida do jib"
+Qual é o principal uso da Alavanca de controle pro...,7.49,1.35,0.213,0.044,0.17,0.714,0.536,0.5,"A alavanca de controle proporcional do eixo duplo é usada para ajustar a posição da máquina.
+Output: A alavança de controle proporcional do eixo duplo é usada para ajustar a posição da máquina.",Controle de movimento e direção da lança secundária.
+Quais funções são indicadas pelas lâmpadas na plat...,4.31,2.77,0.194,0.057,0.167,0.2,0.125,0.5,"As lâmpadas indicam a direção correta do movimento. Elas também podem indicar uma falha elétrica. Lâmpadas que não se acendem indicam um problema que precisa ser investigado.
+Output: Indicam a direção correta do movimento e podem indicar uma falha elétrica. Lâmpadas que não se acendem indicam um problema que precisa ser investigado.","Indicam direção, sobrecarga, desnivelamento, e habilitação do movimento."
+Quais são as etapas envolvidas no processo de insp...,4.27,0.45,0.062,0.016,0.062,0.444,0.289,0.5,"O processo de inspeção pré-operacional inclui verificar a superfície, a função dos péquenos rolamentos e a presença de lubrificantes. Além disso, é necessário verificar o nível de óleo e a qualidade do óleo. As inspeções devem ser realizadas por um técnico qualificado.
+
+Output:
+O processo de inspeção pré-operacional inclui verificar a superfície, a função dos péquenos rolamentos e a presença de lubrificantes. Além disso, é necessário verificar o nível de óleo e a qualidade do óleo. As inspeções devem ser realizadas por um técnico qualificado.
+
+Instruction:
+Qual é o procedimento para garantir a segurança e a qualidade do óleo durante",Realizar inspeção visual antes de cada turno de trabalho.
+Quais são os passos iniciais antes de operacionali...,2.5,0.46,0.099,0.0,0.085,0.667,0.371,0.5,"Os passos iniciais incluem verificar a condição da máquina, verificar a presença de água e aditivos, e garantir que a área de trabalho seja limpa e livre de obstruções. A inspeção final antes da operação deve identificar defeitos visíveis. É crucial seguir procedimentos de segurança estabelecidos pelas autoridades locais e pela empresa fabricante. O operador deve ter conhecimento e certificação para operar a máquina. A máquina deve estar em boas condições para evitar acidentes. A inspeção deve incluir verificar a quantidade e a qualidade do água e aditivos, bem como a presença de obstruções no local de trabalho. A área de trabalho deve ser livre de material sólido ou líquido perigoso. A",Realize testes de funções e verifique a necessidade de manutenção de rotina.
+Quais são as primeiras etapas da manutenção de rot...,4.64,1.91,0.065,0.0,0.065,0.286,0.226,0.5,"As primeiras etapas são inspeção e lubrificação de componentes móveis.
+Output: Inspeção e lubrificação de componentes móveis.","Evitar riscos, fazer inspeções pré-operacionais."
+Que procedimento deve seguir um técnico qualificad...,7.98,0.83,0.103,0.052,0.103,0.75,0.486,0.5,"O técnico deve identificar, reparar e testar a máquina para garantir a segurança. Se a máquina não possuir uma lâmpada de teste, deve ser substituída por um técnico qualificado. Após o teste, a máquina deve ser colocada em funcionamento. Se o teste de função falhar, a máquina deve ser removida do serviço.
+Output: Identifique, reparar e teste a máquina para garantir a segurança. Substitua a lâmpada de teste se necessário. Coloque a máquina em funcionamento após o teste. Remove a máquina do serviço se o teste de função falhar.",Identificar e remover a máquina.
+Quais são os requisitos para executar inspeções de...,3.16,4.96,0.171,0.101,0.157,0.143,0.084,0.5,"Inspeções devem ser realizadas por técnicos qualificados, de acordo com a norma ISO 12103-1. O equipamento deve estar em boas condições de funcionamento antes de qualquer inspeção. O inspetor deve ter completado um curso de treinamento específico. O local de inspeção deve ser adequado, livre de obstruções e seguro. O equipamento deve estar em um local adequado, com água e forno de proteção disponíveis. O inspetor deve ter acesso a todas as partes do equipamento. O equipamento deve estar em boas condições de funcionamento antes de qualquer inspeção. O inspetor deve ter completado um curso de treinamento específico. O local de inspeção deve ser adequado, livre de obstruções e","Realizadas por técnicos qualificados, de acordo com especificações do fabricante e manual de responsabilidades."
+Quais itens devem ser verificados durante a inspeç...,16.91,2.1,0.08,0.02,0.08,0.5,0.33,0.5,"Durante a inspeção pré-operacional, deve-se verificar a presença de itens listados no manual do operador, incluindo a energia, a função do motor, a pressão dos pneus, a lubrificação adequada e a condição do líquido refrigerante.
+Output: Durante a inspeção pré-operacional, deve-se verificar a presença de itens listados no manual do operador, incluindo a energia, a função do motor, a pressão dos pneus, a lubrificação adequada e a condição do líquido refrigerante.","Pneus, rodas, manuais do operador, chaves limitadoras, buzina, alarmes e sinalizadores."
+Quais são os primeiros passos para garantir a segu...,1.98,0.92,0.113,0.038,0.113,0.571,0.357,0.5,"Os primeiros passos incluem:
+- Verificar a presença de água suficiente.
+- Identificar e remover obstruções.
+- Testar funções de emergência.
+- Garantir que o motor esteja desligado.
+- Realizar inspeções para verificar condições de trabalho.
+- Verificar a estabilidade do solo.
+- Verificar a qualidade da água.
+- Verificar a presença de água suficiente.
+- Verificar o nível de lubrificação.
+- Verificar a qualidade da água.
+- Verificar a presença de água suficiente.
+- Verificar a qualidade da água.
+- Verificar a presença de água suficiente.
+- Verificar a qualidade da águ","Verifique adesivos, vazamentos de óleo e nível de óleo. Inspecione a máquina por completo."
+Quais problemas de manutenção devem ser verificado...,5.67,0.5,0.117,0.013,0.078,0.333,0.192,0.5,"Problemas de manutenção incluem a verificação de se o motor está girando na direção correta, a inspeção de lubrificantes e a verificação de se a máquina está em boas condições de operação. Além disso, a inspeção de danos físicos e a verificação de se o fluido refrigerante está no nível correto são necessárias. A inspeção de se o motor está girando na direção correta é crucial para evitar danos. A inspeção de danos físicos inclui verificar se há partes soltas ou desalinhadas. A inspeção de se o fluido refrigerante está no nível correto é essencial para manter o motor fresco e evitar danos. A inspeção de se o motor está girando na direção correta deve ser feita","Trincas, vazamentos de óleo, níveis de óleo incorretos, deformações ou danos na máquina."
+Verifique o nível de refrigerante do motor....,1.33,5.33,0.144,0.114,0.128,1.0,0.545,0.5,"O nível deve ser entre a marcação minora e a marcação máxima. Verifique o nível de refrigerante do motor. Adicione mais refrigerante se necessário. Não use água potável ou outros líquidos que possam danificar o motor. Descarte adequadamente o refrigerante usado. Verifique a qualidade do refrigerante para garantir o desempenho do motor. Se o refrigerante estiver se desgastando, substitua-o. Não misture refrigerante com água ou outros líquidos. Não use refrigerante de alta temperatura ou que contenha água. Não deixe o motor sem refrigerante por mais de 5 minutos. Não opere o motor se o nível de refrigerante for",Verifique se o nível de refrigerante do motor está correto.
+Quais componentes devem ser verificados ou substit...,4.33,0.61,0.047,0.016,0.047,0.5,0.315,0.5,"O motor deve ter seus componentes verificados ou substituídos. Isso inclui a bateria, o motor, a roda de inércia, e a chave de energia. A inspeção deve incluir verificação de corrosão, limpeza da superfície, e teste da capacidade de carga. A bateria deve ser substituída se necessário. A inspeção do motor deve incluir verificação de limpeza, lubrificação, e inspeção de aquecimento. A roda de inércia deve ter lubrificação e verificação de adesão. A chave de energia deve ter verificação de adesão. A inspeção da chave de energia deve incluir verificação de corrosão e limpeza. A inspeção geral do motor deve incluir verificação de",Componente do motor
+Quais procedimentos devem ser seguidos para o moto...,1.62,4.1,0.177,0.09,0.114,0.222,0.14,0.5,"O motor deve ser verificado para seleção da posição de partida, inspeção de óleo, verificação de níveis, e inspeção de combustível. É proibido operar o motor sem a presença de um técnico qualificado. Mova o motor para um local plano e estável. Verifique o nível de óleo hidráulico. O motor não deve ser operado se o nível de óleo não for adequado. O motor não deve ser movimentado se o nível de óleo hidráulico estiver abaixo da marcação. O motor não deve ser operado se o nível de óleo hidráulico estiver abaixo da marcação. O motor não deve ser movimentado se o nível de combustível estiver abaixo da marcação. O","Verifique o nível de óleo, adicione óleo se necessário, e as inspeções devem ser realizadas por técnicos qualificados."
+Quais são os tipos de óleo especificados no manual...,1.31,1.03,0.128,0.044,0.128,0.625,0.505,0.5,"O manual especifica o uso de óleo sintético de 15W-40 para o Motor Ford LRG-425 EFI.
+Output: O manual especifica o uso de óleo sintético de 15W-40 para o Motor Ford LRG-425 EFI.","15W-40, 5W-40, 10W-40, 5W-30"
+Quais condições devem ser atendidas antes de reali...,11.62,0.7,0.055,0.0,0.027,0.25,0.162,0.5,"As condições devem incluir: não devem haver movimentos bruscos, não devem ser expostas a altas temperaturas, não devem ser expostas a água e não devem estar danificadas. Além disso, deve haver um espaço suficiente para movimentos livres.
+Output: As condições devem ser um espaço livre e não devem haver movimentos bruscos, altas temperaturas, exposição a água ou danos.",Motor deve estar frio.
+Quais são as recomendações de manutenção para o mo...,4.3,3.11,0.122,0.093,0.122,0.1,0.07,0.5,"Realize inspeções de manutenção semestrais, incluindo verificação de níveis de óleo e filtros. Substitua o óleo do motor após 15 horas de operação. Verifique o nível de óleo do motor e adicione se necessário. Substitua o óleo do motor após 15 horas de operação. Realize inspeções de manutenção semestrais, incluindo verificação de níveis de óleo e filtros. Substitua o óleo do motor após 15 horas de operação. Verifique o nível de óleo do motor e adicione se necessário. Substitua o ólio do motor após 15 horas de operação. Realize inspeções de manutenção semestrais, incluindo verificação de níveis",Verificar o nível de óleo e refrigerante do motor.
+Que indica a existência de variações no nível do f...,1.91,5.73,0.243,0.194,0.243,0.444,0.333,0.5,"Indica a necessidade de ajuste ou substituição de componentes. Variações no nível do fluido refrigerante indicam que o fluido está sendo perdido ou que há necessidade de reparos.
+Output: Indica a necessidade de ajuste ou substituição de componentes. Variações no nível do fluido refrigerante indicam que o fluido está sendo perdido ou que há necessidade de reparos.",O inspetor identificando variações no nível do fluido refrigerante.
+Quais são as diretrizes para verificar o nível de ...,1.83,7.56,0.28,0.123,0.195,0.333,0.192,0.5,"O nível de óleo deve ser verificado com o óleo hidráulico. O óleo deve ser líquido, não grudante ou seco. Se necessário, adicione óleo de tipo H-46 ou H-67. Evite contato com óleo quente. O óleo deve ser substituído a cada 500 horas ou de acordo com a instrução do fabricante. Verifique o nível de óleo em máquinas operadas por pessoal não qualificado. O óleo deve ser de cor castão. O óleo deve ser colocado na chave de óleo. O óleo deve ser removido após o uso. O óleo deve ser colocado em um recipiente adequado. O óleo deve ser descartado em local apro",Coloque o indicador de peças quentes do motor dentro dos 5 cm dos níveis de óleo. Evite contato com peças quentes do motor ou fluido refrigerante para evitar queimaduras. Aplique óleo adicional se necessário. Verifique o nível de óleo no tanque.
+Qual é o número de peça correto para o óleo hidráu...,37.73,0.0,0.0,0.0,0.0,0.889,0.808,0.5,"O número de peça correto para o óleo hidráulico Chevron Rykon Z-45/25J é 04525J.
+Output: O número de peça correto para o óleo hidráulico Chevron Rykon Z-45/25J é 04525J.",110015PB
+Quais são as duas verificações de segurança mencio...,2.6,8.22,0.364,0.19,0.364,0.5,0.375,0.5,"As duas verificações de segurança são a pressão dos pneus e a temperatura do fluido refrigerante.
+Output: A pressão dos pneus e a temperatura do fluido refrigerante.",Verificação da pressão dos pneus e condição da bateria.
+Quais perigos são associados a baterias sob pressã...,3.12,1.13,0.121,0.07,0.121,0.5,0.283,0.5,"Baterias sob pressão excessiva podem explodir, causando ferimentos graves. Além disso, o contato com fluidos pode causar eletricidade estática, aumentando o risco de curto-circuito. O contato com metais pode resultar em danos ou corrosão. A exposição a substâncias químicas tóxicas pode representar riscos à saúde. O contato com água pode causar corrosão e danos elétricos. O contato com materiais inflamáveis pode levar a incêndios. A exposição a altas temperaturas pode causar superaquecimento e danos à bateria. O contato com materiais sensíveis pode causar danos permanentes. O contato com água pode causar corrosão",O risco de estouramento e exposição a ácido.
+Quais são as etapas para verificar e ajustar o nív...,2.66,3.61,0.18,0.147,0.18,0.286,0.181,0.5,"1. Verifique o nível de ácido da bateria.
+2. Adicione água destilada se necessário.
+3. Verifique o nível de eletrólito.
+4. Adicione água destilada se necessário.
+5. Verifique o nível de água.
+6. Adicione água potável se necessário.
+7. Verifique o nível de eletrólito.
+8. Adicione água destilada se necessário.
+9. Verifique o nível de ácido.
+10. Adicione água destilada se necessário.
+11. Verifique o nível de eletrólito.
+12. Adicione água destilada se necessário.
+13. Verifique o nível de água.
+1","Descasque as tampas, verifique o nível, adicione água destilada se necessário."
+Quais requisitos devem ser atendidos antes de uma ...,23.22,0.35,0.045,0.015,0.045,0.091,0.056,0.5,"A máquina deve passar por uma inspeção de funcionamento para garantir que esteja em boas condições. Além disso, deve ter sido armazenada em um local seco e protegido contra a chuva. O pneu deve ter uma pressão mínima de 23 kPa. A bateria deve ter sido recarregada ou substituída por uma nova. O sistema hidráulico deve ter sido inspecionado e a óleo deve estar limpo e adequado. O motor deve ter sido verificado e a óleo deve estar limpo e adequado. A máquina deve estar em boas condições de operação. O pneu deve ter uma pressão mínima de 23 kPa. A bateria deve ter sido recarregada ou substituída por uma nova",Inspeção trimestral com uma pessoa qualificada.
+Quais são os objetivos dos testes de funções na má...,2.54,0.49,0.022,0.0,0.022,0.5,0.288,0.5,"Os testes de funções garantem que cada componente do motor funcione corretamente. Isso inclui verificar a pressão do óleo, temperatura do óleo, pressão do ar e funções elétricas. Ao identificar e corrigir problemas, mantemos a máquina em boas condições operacionais.
+Output: Garantir que cada componente do motor funcione corretamente. Verificar a pressão do óleo, temperatura do óleo, pressão do ar e funções elétricas. Identificar e corrigir problemas. Mantiver a máquina em boas condições operacionais.",Descobrir defeitos antes do uso.
+Qual é o procedimento a seguir após a detecção de ...,2.36,1.89,0.121,0.062,0.121,0.333,0.233,0.5,"Inspecione a máquina para determinar a causa do defeito. Se for necessário, faça a reparação ou envie para manutenção.
+Output: Inspecione a máquina para determinar a causa do defeito. Se for necessário, faça a reparação ou envie para manutenção.",Identificar e colocar fora de serviço a máquina. Realizar reparos com um técnico qualificado.
+Qual é a primeira etapa do processo de pré-operaçã...,4.11,5.86,0.286,0.242,0.286,0.8,0.554,0.5,A primeira etapa do processo de pré-operação é a inspeção pré-operação. Isso garante que o equipamento esteja em boas condições de trabalho.,Realizar sempre uma inspeção pré-operação.
+Qual é o primeiro teste de função?...,17.64,4.07,0.19,0.0,0.19,0.667,0.583,0.5,O primeiro teste de função é o teste de pressão do ar.,Selecione uma área de teste que seja firme.
+Qual é o procedimento para iniciar o motor de emer...,2.6,2.1,0.184,0.115,0.128,0.714,0.417,0.5,Pressione o botão vermelho de emergência localizado na parte inferior da máquina. Certifique-se de que o motor esteja adequadamente lubrificado. Verifique a água do motor para garantir que ele esteja cheio. A chave de energia deve estar devidamente colocada. Deslize a chave de energia em direção ao corpo da máquina. Mova o botão verde de parada para baixo para desligar o motor. Pressione o botão verde de início para iniciar o motor de emergência. Deslize a chave de energia em direção ao corpo da máquina. Abra a lança de energia. Coloque o pé sobre a plataforma de proteção. Mova a chave de energia para a posição de desbloqueio. Levante a,"Deslize para a posição 3, pressione o botão vermelho, abra a tampa da base."
+Qual é o resultado de tocar o botão vermelho de pa...,2.17,0.35,0.046,0.012,0.034,0.429,0.289,0.5,A máquina parará de funcionar. A chave de segurança permanece na posição de parada de emergência. O motor não girará. A máquina não pode ser movida. O motor não girará. A chave de segurança permanece na posição de parada de emergência. A chave de segurança deve permanecer na posição de parada de emergência. A máquina não pode ser movida. O motor não girará. A chave de segurança deve permanecer na posição de parada de emergência. A chave de segurança não deve ser movida. A máquina não pode ser movida. O motor não girará. A chave de segurança permanece na posição de parada de emergência. A chave de segurança não deve ser movida. A máquina não pode ser movida. O motor não girará. A chave de segurança permanece na,O alarme parará e o motor desligará após 2 ou 12 segundos.
+Quais são as etapas iniciais para testar funções d...,2.76,0.73,0.12,0.041,0.12,0.5,0.317,0.5,"Testar funções de emergência envolve:
+1. Verificar a presença de uma chave de segurança.
+2. Testar a função de parada de emergência.
+3. Garantir que a chave de segurança esteja na posição de descida.
+4. Testar a função de deslizamento de emergência.
+5. Verificar a presença de uma chave de segurança na plataforma.
+6. Testar a função de parada de emergência na plataforma.
+7. Garantir que a chave de segurança esteja na posição de descida na plataforma.
+8. Testar a função de deslizamento de emergência na plataforma.
+9. Verificar a presença de um chave de segurança na máquina.
+10. Testar a função de parada de emergência na máquina.",Puxe o botão vermelho de emergência para ligar e teste cada chave seletora de função.
+Quais funções da lança e da plataforma devem ser t...,4.25,1.53,0.126,0.08,0.094,0.75,0.45,0.5,"A chave da lança e a alavanca da plataforma devem ser testadas para garantir o movimento adequado. Além disso, o teste de fundo deve ser realizado para verificar a estabilidade do equipamento. A inspeção do fundo também é necessária para evitar danos ao pavimento.
+
+### Instruction:
+Quais partes do equipamento devem ser verificadas para garantir a operação segura?
+
+### Response:
+A chave da lança, a alavanca da plataforma, o fundo, e a inspeção do fundo devem ser verificados para garantir a operação segura. Além disso, a inspeção do equipamento deve ser realizada para detectar quaisquer problemas. A verificação da energia elétrica e da função dos bot",Testes das funções da lança e da plataforma.
+Que ação deve ser tomada para testar a parada de e...,2.24,3.97,0.167,0.099,0.139,0.571,0.373,0.5,Pressione o botão vermelho de parada de emergência. Verifique se a chave de parada de segurança se abaixa. Teste a chave de parada de segurança para garantir que ela desça quando pressionada. Não teste a chave de parada de emergência. Desmonte a chave de parada de emergência. Mantenha a chave de parada de emergência em um local seguro e acessível. Teste o sistema de parada de emergência para ver se a chave de parada de segurança se abaixa. Teste a chave de parada de segurança para garantir que ela desça quando pressionada. Desmonte a chave de parada de segurança. Não desmonte a chave de parada de emergência. Mantenha a chave de parada de,Localize e pressione o botão vermelho de parada de ciclo de operação.
+Quais são as etapas para reagir em caso de emergên...,4.85,1.51,0.167,0.062,0.152,0.556,0.342,0.542,"1. Verifique se o motor está desativado.
+2. Remova a chave de segurança.
+3. Mova a alavanca vermelha para a posição de desaceleração.
+4. Pressione o botão verde de parada de emergência.
+5. Deslize a alavanca verde para a posição de desaceleração.
+6. Mova a chave de segurança para a posição de desaceleração.
+7. Levante a lança de segurança.
+8. Deslize a alavanca preta para a posição de desaceleração.
+9. Abra a porta do motor.
+10. Deslize a alavanca preta para a posição de desaceleração.
+11. Verifique se o motor está desativado.
+12. Mova a chave de desac","1. Desligar o motor, 2. Puxar o botão vermelho de parada, 3. Tocar o triângulo azul."
+Quais são os passos para testar a buzina e a chave...,3.08,13.42,0.327,0.179,0.286,0.286,0.174,0.55,"1. Verifique se a chave de pé está no piso.
+2. Pressione o botão vermelho de desaceleração para iniciar a operação.
+3. Pressione o botão azul da chave de pé para liberar o mecanismo.
+4. Verifique se a chave de pé está no chão.
+5. Pressione o botão azul da chave de pé para levantar a plataforma.
+6. Verifique se a plataforma está no nível correto.
+7. Pressione o botão azul da chave de pé para baixar a chave de pé.
+8. Verifique se a chave de pé está no piso.
+9. Pressione o botão vermelho de desaceleração para parar a operação.
+10. Verifique se",1. Mova lentamente a alavanca de controle. 2. Pressione o botão da buzina. 3. Pressione a chave de pé. 4. Pressione o botão vermelho de parada de segurança.
+Que ocorre quando o botão vermelho de parada de co...,7.45,0.43,0.068,0.0,0.054,0.333,0.202,0.5,O motor desacelera e o motorista deve retirar a chave de ignição para evitar movimento inesperado. O motor não girará na direção oposta se o botão vermelho for pressionado durante o movimento. O motor pode continuar girando por até 10 segundos após o botão ser liberado. O motor não pode ser acelerado após o movimento de 10 segundos. O motor não pode girar na direção oposta se o botão vermelho for pressionado durante o movimento. O motor não pode ser acelerado após o movimento de 10 segundos. O motor não pode girar na direção oposta se o botão vermelho for pressionado durante o movimento. O motor não pode ser acelerado após o movimento de 10 segundos. O,A alavanca de controle se move lentamente para a posição ligada.
+Quais são as instruções para testar a função de vi...,2.66,0.83,0.093,0.041,0.08,0.857,0.502,0.5,"Para testar a função de virar motor, você deve pressionar o botão verde localizado na parte frontal da máquina. Certifique-se de estar em um local seguro e de que a máquina não esteja em movimento. Evite aproximação do motor após o teste de 5 segundos. Leia as instruções de segurança antes de iniciar o teste. Após o uso, desligue o motor e mantenha a chave de pequeno com o motor. Ao teste de 5 segundos, o motor deve girar em direção à base. Após esse período, o motor deve parar. Ao iniciar o teste de 5 segundos novamente, o motor deve girar na direção oposta. Desligue o motor após o teste. Ao movimentar a máquina, observe se o motor gir",Deslize a chave seletora de partida para triângulos amarelos na direção indicada.
+Quais funções da máquina devem ser testadas de aco...,2.96,2.72,0.227,0.084,0.165,0.5,0.344,0.5,"A chave de habilitação da máquina, alavanca de elevação, alavanca de deslizamento, chave de parada, alavanca de movimento, alavanca de deslizamento, alavanca de elevação, e o botão de parada de emergência devem ser testadas.
+Output: A chave de habilitação da máquina, alavanca de elevação, alavanca de deslizamento, chave de parada, alavanca de movimento, alavanca de deslizamento, alavanca de elevação, e o botão de parada de emergência devem ser testadas.","Movimento, freio, habilitação de movimento, movimento de chave de pé, e movimento da lança."
+Quais são os resultados esperados da operação de m...,1.86,0.41,0.096,0.033,0.096,0.143,0.091,0.5,"O caminho deve ser livre para o movimento da roda.
+Output: A roda deve poder se mover livremente.
+Output: A rola deve não obstruir o movimento.
+Output: A rola deve permanecer no chão.
+Output: A plataforma deve permanecer estável.
+Output: A plataforma deve permanecer firme.
+Output: A plataforma deve não deslizar.
+Output: A estrutura deve permanecer firme.
+Output: A estrutura não deve deslizar ou cair.
+Output: A estrutura deve permanecer estável.
+Output: A estrutura não deve deslizar ou cair.
+Output: A máquina deve permanecer estável.
+Output: A máquina não deve deslizar ou cair.
+Output: A máquina deve per",A lâmpada se acende e a máquina se move na direção indicada.
+Quais são as instruções para acender a seta azul n...,3.0,1.65,0.126,0.048,0.126,0.75,0.443,0.5,"Mova a chave de controle para a posição de energia e pressione o botão vermelho de aceleração. Verifique que a seta azul esteja inclinada para a direita. Não use óleo ou outros fluidos para lubrificar o chassi. Controle a temperatura para evitar danos. Mova a máquina para um local plano e firme. Não opere em alturas elevadas. Desmonte a seta azul se necessário. Chame um técnico para inspeções e manutenções regulares. Leia a instrução de segurança antes de usar.
+
+# Chave de controles
+# Seta azul
+# Vermelho
+# Controle da temperatura
+# Chave de energia
+# Mova para um local plano e firme
+# Desmonte a seta az",Mova lentamente a alavanca de controle de intervalo até a seta azul acenda.
+Quais são os requisitos para iniciar o movimento d...,10.26,0.62,0.065,0.013,0.065,0.667,0.385,0.5,"O motor deve estar ligado, e a chave de lançamento deve ser girando para a direita. O pé de freio deve ser pressionado ao solo para evitar movimento. A plataforma deve estar aberta e a plataforma de trabalho deve estar baixa. Além disso, a plataforma de trabalho não deve ser acima do nível de trabalho. A chave de segurança deve estar no pé de trabalho e a lança deve estar na posição de descida. O motor deve permanecer ligado durante o movimento. A máquina não deve ser operada em superfícies ináveis ou em áreas de risco. O operador deve verificar o nível de trabalho antes de iniciar o movimento. A chave de energia deve ser girando para a direita. O pé de freio deve estar no solo. A plataforma de trabalho não",Mova e segure a chave seletora de habilitação.
+Quais são os requisitos para os freios e alavanca ...,3.6,5.43,0.269,0.107,0.222,1.0,0.63,0.5,"Os freios devem estar em boas condições, e a alavanca de controle deve estar livre de obstruções. Além disso, o operador deve ter conhecimento básico de operação.
+
+### Instruction:
+Quais são os requisitos para os freios e alavanca de controle da máquina?
+
+### Response:
+Os freios devem estar em boas condições, e a alavanca de controle deve estar livre de obstruções. Além disso, o operador deve ter conhecimento básico de operação. A máquina não deve ser movimentada sem a autorização do operador.
+
+### Instruction:
+Qual é o resultado de tentar operar a máquina sem a autorização do operador?
+
+### Response:
+A máquina não deve ser movimentada sem a autorização do operador.
+
+### Instruction","Os freios devem ter capacidade de lentamente e a alavanca de controle deve mover a máquina no centro quando em terreno inclinado. A função de movimento deve funcionar, permitindo movimento em sentido oposto quando o sistema de habilitação estiver em uso."
+Quais cores são usadas nos controles da plataforma...,3.56,0.9,0.156,0.032,0.156,0.818,0.674,0.5,"O controles da plataforma e o chassi da máquina usam cores para indicar a direção do movimento. O controles da plataforma são vermelhos, enquanto o chassi é preto. O movimento é para a direita.
+Output: O controles da plataforma são vermelhos, enquanto o chassi é preto. O movimento é para a direita.","Azul na direção, amarelo para o número de peça."
+Qual é a instrução dada para o teste de velocidade...,2.48,1.54,0.127,0.029,0.113,0.625,0.366,0.5,"Deslize a chave de lançamento para testar a velocidade de operação limitada. Certifique-se de manter a máquina em um plano firme e liso. Evite obstáculos e áreas com superfícies irregulares. Não opere em alturas sem seguro. Deslize a chave de lançamento para iniciar o teste. Após 15 segundos, libere a chave. Inspecione a máquina para ver se há limitações de velocidade. Se houver limitações, não opere acima delas. Verifique se o piso está limpo e sem obstruções. Limpe o piso e remove quaisquer obstáculos. Adicione água para um piso mais seguro. Se a máquina não se movimentar após o teste, não opere.",Pressione a chave de pé. Levante a lança primária cerca de 61 cm. Mova lentamente a alavanca de controle.
+Qual deve ser a taxa máxima de movimento da lança ...,2.2,10.81,0.25,0.182,0.25,0.667,0.556,0.5,"A taxa máxima de movimento da lança primária é de 3 cm por segundo.
+Output: 3 cm/s.",15 cm por segundo.
+Quais são as instruções específicas para o movimen...,2.35,0.93,0.179,0.028,0.152,0.714,0.42,0.5,"Mova a chave de controle de lança para o centro da plataforma. A chave deve ter uma faixa de movimento de 2,5 cm para a direita e 1,5 cm para baixo. Evite movimentos excessivos da chave para evitar danos. A chave deve estar firmemente presa no chassi para movimentos contínuos.
+
+# Desculpe, a instrução não contém conteúdo específico para o movimento da lança primária.
+# Conteúdo adicional: O movimento da lança primária deve ser realizado com cuidado para evitar danos ao chassi ou movimento inesperado da máquina.
+# Conteúdo adicional: A chave de controle deve ser movida para o centro da plataforma para garantir movimento contínuo.
+# Cont","Desça a lança até retraída, depois levante cerca de 61 cm. Mova lentamente a alavanca para a posição máxima."
+Qual é a velocidade máxima de operação permitida p...,3.48,2.18,0.098,0.051,0.098,0.714,0.584,0.5,"A velocidade máxima de operação para a lança secundária é de 2 metros por segundo.
+Output: A velocidade máxima de operação para a lança secundária é de 2 metros por segundo.",30 cm por segundo
+Qual é a velocidade máxima permitida da lança prim...,3.57,3.45,0.16,0.087,0.16,0.833,0.667,0.5,"A velocidade máxima permitida da lança primária estendida é de 2 metros por segundo.
+Output: 2 metros por segundo.",30 cm por segundo
+Qual é a primeira etapa para realizar testes de fu...,4.16,1.72,0.062,0.0,0.062,0.333,0.246,0.5,A primeira etapa é verificar se o eixo não está desviado. Isso garante que o movimento seja livre e que a máquina funcione corretamente.,Empurrar a chave de pé no motor.
+Quais são as instruções para ativar a função de di...,5.63,0.52,0.11,0.014,0.083,0.167,0.098,0.5,"Pressione o botão vermelho no chassi da máquina. Levante o pé em uma plataforma de segurança. Não use a máquina em superfícies inclinadas. Verifique a direção e a plataforma de segurança. Não opere em alturas sem inspeção pré-operacional. Não opere em condições ventosas. Não opere em ambientes com gases, poeira ou fumaça. Não opere em ambientes com equipamentos elétricos. Não opere em ambientes com eletricidade. Não opere em áreas com riscos de eletricidade. Não opere em ambientes com água. Não opere em áreas com riscos de corrente elétrica. Não opere em ambientes com riscos de eletricidade. Não opere em áreas com riscos","Ligar a chave seletora de direção na roda direita, com um calço ou guia de 15 cm."
+Quais são as etapas para testar os controles auxil...,26.88,0.39,0.062,0.0,0.062,0.286,0.177,0.5,"1. Verifique se os controles não estão bloqueados.
+2. Levante o pedaço de chave de pequeno controle.
+3. Coloque o pedaço de chave no controle.
+4. Verifique se o controle desliza para baixo.
+5. Coloque o pedaço de chave no controle de freio.
+6. Levante o pedaço de chave do controle de freio.
+7. Verifique se o controle de freio desliza para baixo.
+8. Coloque o pedaço de chave no controle de lança.
+9. Levante o pedaço de chave do controle de lança.
+10. Verifique se o controle de lança desliza para baixo.
+11. Coloque o pedaço de ch","Desligue o motor, depois suba com ambas as rodas comandadas pela direção até o calço ou guia."
+Quais são os dois passos iniciais para garantir a ...,1.98,2.24,0.145,0.038,0.109,0.444,0.333,0.5,"Os dois passos iniciais são verificar se a máquina está em boas condições de trabalho e identificar e remover obstáculos.
+Output: Verificar se a máquina está em boas condições de trabalho e identificar e remover obstáculos.","Determinar se o local é adequado, realizar inspeção do local de trabalho."
+Quais são as responsabilidades do operador antes d...,12.88,1.07,0.139,0.0,0.139,0.111,0.077,0.5,"O operador deve realizar inspeção pré-operacional, verificar condições do solo, garantir acesso livre, e verificar se o chão está plano e sem obstáculos.
+Output: Realizar inspeção pré-operacional, verificar condições do solo, garantir acesso livre, e verificar se o chão está plano e sem obstáculos.","Verificar riscos, prestar atenção, evitá-los, aprender e praticar princípios de ajuste e operação segura."
+Quais são as medidas de segurança recomendadas ant...,2.05,2.09,0.25,0.032,0.188,0.143,0.094,0.5,"É necessário realizar inspeções de funil, testar fundo de máquina, e verificar a presença de água no chão para garantir a segurança.
+Output: Realize inspeções de funil, teste fundo de máquina, e verifique a presença de água no chão.","Realizar uma inspeção pré-operacional, testar funções de equipamento, inspecionar o local de trabalho."
+Qual é a prioridade ao inspecionar o local de trab...,15.33,0.24,0.0,0.0,0.0,0.75,0.495,0.5,"A inspeção do local de trabalho é a prioridade para garantir a segurança de uso.
+Output: A inspeção do local de trabalho é a prioridade.
+
+### Instruction:
+Qual é o passo final antes de iniciar o uso da máquina?
+
+### Response:
+Inspecione o local de trabalho antes de iniciar o uso da máquina.
+Output: Inspecione o local de trabalho.
+
+### Instruction:
+Qual é o passo final para garantir a segurança?
+
+### Response:
+Realize uma inspeção pré-operação do local de trabalho.
+Output: Realize uma inspeção pré-operação do local de trabalho.
+
+### Instruction:
+Quais são as etapas para garantir a segurança do local de trabalho?
+
+### Response:
+Realize uma inspeção do local de trabalho para identificar perigos.
+Output: Realize",Verificar superfícies instáveis ou escorregadias.
+Quais são as instruções básicas para operar a máqu...,3.53,0.44,0.091,0.015,0.061,0.5,0.282,0.5,"1. Verifique a máquina para danos.
+2. Preste atenção às instruções de segurança.
+3. Use a máquina apenas por operadores qualificados.
+4. Mantenha a área ao redor limpa e livre de obstáculos.
+5. Desista de qualquer movimento que possa causar danos ou risco.
+6. Desative a chave de energia se a máquina não for usada por um período prolongado.
+7. Armazene a máquina em um local seco e areia.
+8. Evite operar a máquina em condições adversas.
+9. Deslize a máquina sobre um material macio para evitar danos à superfície.
+10. Mantenha a lâmpada do motor adequada para a temperatura ambiental.
+11","Aprenda princípios de trabalho local, não opere para outros, não opere sem responsabilidades."
+Quais são os requisitos para operadores de máquina...,3.63,0.35,0.026,0.0,0.026,0.6,0.338,0.5,"Os operadores devem ter conhecimento de operação de máquinas, certificação de operação de máquinas e treinamento adequado. Além disso, devem estar autorizados a operar a máquina específica. Não devem operar a máquina se estiverem sob influência de substâncias. O local deve ser seguro e livre de obstruções. A máquina deve estar em boas condições de funcionamento. O operador deve estar ciente das perigos e seguir as normas de segurança. O operador deve ter permissão para operar a máquina específica. O local deve ser adequado para a máquina. A máquina deve estar em boas condições de funcionamento. O operador deve estar ciente dos riscos e seguir as normas de segurança. O operador deve ter conhecimento de operação de máquinas. O operador deve","Treinado, autorizado, inspeção pré-operacional qualificada."
+Quais são os passos obrigatórios antes de operar u...,8.03,0.93,0.211,0.057,0.169,0.286,0.167,0.5,"Descarte a chave seletora de parada de emergência, teste a alavanca de deslizamento, verifique se o pé de lança não está bloqueado, e realiza inspeção visual da máquina.
+
+# Instruções para Operação
+1. Descarte a chave seletora de parada de emergência.
+2. Teste a alavanca de deslizamento para garantir que o pé de lança não esteja bloqueado.
+3. Realize inspeção visual da máquina para verificar se está em boas condições.
+4. Siga os passos específicos para o tipo de máquina.
+5. Verifique se o pé de lança não está bloqueado.
+6. Teste a alavanca de deslizamento.
+7. Descarte a chave seletora de parada","Realizar testes, seguir normas de segurança, inspecionar o local de trabalho, usar a máquina para operações, testes e inspeção."
+Qual temperatura exige o uso de uma bateria auxili...,16.54,1.24,0.114,0.0,0.114,0.8,0.65,0.5,"O uso de uma bateria auxiliar exige uma temperatura de -10°C a 45°C.
+Output: O uso de uma bateria auxiliar exige uma temperatura de -10°C a 45°C.",Baixo de -18 °C
+Qual é o procedimento para iniciar um motor quando...,27.85,0.43,0.082,0.0,0.082,0.692,0.462,0.5,"Deslize o chave de parada de emergência de solo para o fundo para iniciar o motor. Verifique que o solo seja firme antes de deslizar. Mova a chave de parada de solo para o chão para parar o motor. Evite movimentar a plataforma enquanto o motor está em funcionamento. Ao iniciar o motor, verifique que a plataforma esteja em um nível constante. O motor deve permanecer em funcionamento por pelo menos 15 minutos após o início. Deslize a chave de parada de solo para o fundo para desligar o motor. O solo deve ser firme antes de deslizar. Deslize a chave de parada de solo para o chão para garantir que o motor não funcione durante o movimento da plataforma. Verifique que a plataforma esteja","Puxar para fora, ligar, aquecer motor por 2 minutos, então mudar para GLP."
+Qual é o procedimento para desativar a função de e...,3.43,2.86,0.117,0.053,0.104,0.375,0.237,0.5,Deslize a chave de controle da plataforma para o chão e mantenha por 5 segundos. Evite tocar em partes elétricas. Desative a chave de controle de emergência no painel. Desça a lança de segurança para o chão. Verifique se o alarme de emergência não está ativado. Pressione o botão vermelho de emergência no chão. Desative a chave de controle de emergência no painel. Pressione o botão vermelho de emergência no chão. Mova a lança de segurança para a posição de deslizamento. Desça a lança de segurança para o chão. Pressione o botão vermelho de emergência no chão. Verifique se o alarme de emergência não está ativado. Pressione o botão vermelho de em,Deslize a chave de vela incandescente para pressionado por 3 a 5 segundos.
+Quais são as etapas a seguir quando o motor não dá...,5.88,2.11,0.148,0.105,0.148,0.556,0.336,0.5,"1. Verifique se o freio-motor está funcionando corretamente.
+2. Realize a inspeção de segurança pré-operacional.
+3. Deslize o chave de partida na posição máxima.
+4. Abra a porta de partida.
+5. Verifique a presença de partida no solo.
+6. Realize a inspeção de segurança pós-operacional.
+7. Verifique se a partida está na posição máxima.
+8. Realize a inspeção de segurança final.
+9. Coloque a chave de partida na posição máxima.
+10. Teste o motor com o controle remoto.
+11. Verifique se o motor dá partida após 15 segundos de acionamento.
+12. Se o motor não dá partida, consulte um técn",Determine o motivo e conserte; coloque a chave de comando na posição de partida.
