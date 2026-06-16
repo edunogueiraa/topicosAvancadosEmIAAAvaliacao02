@@ -30,7 +30,7 @@ python main.py
 # Opção 2: via uvicorn (recomendado)
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
-Acesse: **http://localhost:8080**
+Acesse: **http://localhost:8000**
 
 
 ## Desenvolvedor

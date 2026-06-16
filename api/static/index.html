@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Genie LLM · Chat</title>
+  <title>LLM Lab · Chat</title>
 
   <!-- Google Fonts: JetBrains Mono (código) + DM Sans (UI) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,7 +19,7 @@
       --bg-secondary:  #13161b;       /* fundo das bolhas e painéis */
       --bg-input:      #1a1e25;       /* fundo do campo de entrada */
       --border:        #252a34;       /* bordas sutis */
-      --accent:        #b9b9b9;       /* verde terminal: cor de destaque */
+      --accent:        #00e5a0;       /* verde terminal: cor de destaque */
       --accent-dim:    #00e5a020;     /* acento com baixa opacidade */
       --text-primary:  #e8eaf0;       /* texto principal */
       --text-secondary:#6b7280;       /* texto secundário/placeholder */
@@ -537,9 +537,9 @@
 
     <!-- Logo / Identificação -->
     <div class="sidebar-logo">
-      <!-- <div class="logo-icon">G</div> -->
+      <div class="logo-icon">&gt;_</div>
       <div class="logo-text">
-        Genie
+        My LLM
         <span>Chat Interface</span>
       </div>
     </div>
@@ -559,11 +559,11 @@
       </div>
     </div>
 
-    <!-- Parâmetros de Geração 
+    <!-- Parâmetros de Geração -->
     <div class="params-section">
       <label>Parâmetros</label>
 
-       Temperatura: controla aleatoriedade da geração 
+      <!-- Temperatura: controla aleatoriedade da geração -->
       <div>
         <label for="temperature-range">
           Temperatura <small style="color:var(--text-secondary)">(criatividade)</small>
@@ -574,7 +574,7 @@
         </div>
       </div>
 
-       Max Tokens: tamanho máximo da resposta 
+      <!-- Max Tokens: tamanho máximo da resposta -->
       <div>
         <label for="maxtokens-range">Max Tokens</label>
         <div class="param-row">
@@ -584,11 +584,11 @@
       </div>
     </div>
 
-     Contador de tokens da última resposta 
+    <!-- Contador de tokens da última resposta -->
     <div class="token-info">
       <div class="token-count" id="last-token-count">—</div>
       <div style="margin-top:4px">tokens na última resposta</div>
-    </div> -->
+    </div>
 
   </aside>
 
@@ -600,8 +600,8 @@
     <!-- Header do chat -->
     <header class="chat-header">
       <div class="chat-title">
-        <!--sessão <span id="session-id">#----</span> -->
-      </div> 
+        sessão <span id="session-id">#----</span>
+      </div>
       <button id="clear-btn" title="Limpar conversa">
         limpar
       </button>
@@ -614,8 +614,8 @@
         <div class="welcome-glyph"><img src="/static/logochat.png" alt=""></div>
         <h2>Laboratório de Assistentes IA - Genie</h2>
         <p>
-            Selecione um modelo fine-tuned na barra lateral e comece a interagir.
-            Explore diferentes assistentes e suas capacidades em um único ambiente.
+          Selecione um modelo fine-tunado ne barra lateral e comece a interagir.
+          Explore diferentes assistentes e suas capacidades em um único ambiente!
         </p>
       </div>
     </div>
